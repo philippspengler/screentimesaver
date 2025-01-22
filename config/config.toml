@@ -1,0 +1,3 @@
+[paths]
+screentime_db = "/Library/Application Support/Knowledge/knowledgeC.db"
+delta_table = "/Data/screentime_delta"
